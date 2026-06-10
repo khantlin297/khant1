@@ -2,7 +2,7 @@
 // Visual Studio用 セキュリティ警告強制解除 ＆ ヘッダーインクルード
 // =========================================================================
 #define _CRT_SECURE_NO_WARNINGS //git
-#pragma warning(disable:4996) 
+#pragma warning(disable:4996)   //yeh
 
 #include <stdio.h>
 #include <stdlib.h>
