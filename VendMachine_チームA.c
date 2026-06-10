@@ -4,7 +4,7 @@
 #define _CRT_SECURE_NO_WARNINGS //git
 #pragma warning(disable:4996)   //yeh
 
-#include <stdio.h>
+#include <stdio.h>  //aaa
 #include <stdlib.h>
 #include <stdbool.h>//commit
 #include <string.h>
